@@ -128,7 +128,7 @@ NEGATIVE:
 Greek Lambda symbol, symmetrical upper symbol, equal-length diagonal legs, concentric semi-spheres, ornamental wreath, dense foliage, realistic plant rendering, 3D effects, gradients, glow, shadows, photorealism, text, background graphics, decorative framing.
 ```
 
-### Жест для приветствия «Знак Единства»
+### Предложение о приветствии «Знак Единства»
 *   Публичное название: Знак Единства
 *   Философское название: Вектор коэволюции
 
