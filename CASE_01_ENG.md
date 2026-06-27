@@ -18,8 +18,12 @@ Instead of running around to service centers, chaotically searching the Web, or 
 
 After processing several megabytes of complaints, technical issue descriptions, regrets over lost money, and outright curses, the carbon mind - backed by the AI's analysis - made an informed decision to purchase a 480GB Kingston A400 SSD.
 
-### Phase 2: The Interface Conflict and "I/O Error"
-During the hardware integration stage, the system encountered a textbook techno-evolutionary barrier. The new SSD was installed into a caddy (Optibay adapter) replacing the ancient CD-ROM drive. When attempting to format the disk, Windows 7 threw up a white flag in the form of a critical error:
+### Phase 2: The conflict between an outdated OS and the modern SSD.
+During the hardware integration stage, the system encountered a textbook techno-evolutionary barrier. The legacy Windows 7 operating system failed to recognize the new drive. By asking the elderly woman questions about her system configuration and parameters, the AI identified and named the missing drivers. After researching several support sites and forums, she located and installed all the necessary drivers, finally making Windows 7 'see' the new SSD. 
+But the quest didn't end there.
+
+### Phase 3: The Interface Conflict and "I/O Error"
+The new SSD was installed into a caddy (Optibay adapter) replacing the ancient CD-ROM drive. When attempting to format the disk, Windows 7 threw up a white flag in the form of a critical error:
 
 > *"The request could not be performed because of an I/O device error."*
 
@@ -30,7 +34,7 @@ To an outside observer, the situation looked hopeless. But this is exactly where
 * When that wasn't enough, she actively mobilized a silver-bearded **grandpa** who was peacefully resting on the couch.
 * **Grandpa**, being a jack-of-all-trades, resolutely grabbed a screwdriver...
 
-### Phase 3: The Castling and Triumph of Synergy
+### Phase 4: The Castling and Triumph of Synergy
 The biological mind (grandpa), following the recommendation of the silicon mind (AI), executed a spatial castling maneuver: he moved the new Kingston into the laptop's primary slot and sent the old system drive to the caddy. The direction of energy and data flows was altered manually.
 
 This was followed by a lightning-fast adjustment of the ASUS BIOS parameters (*Hard Drive BBS Priorities*), which the biological mind (grandma), thanks to the AI's prompts, executed so smoothly it looked as if she did it every morning instead of light exercise.
