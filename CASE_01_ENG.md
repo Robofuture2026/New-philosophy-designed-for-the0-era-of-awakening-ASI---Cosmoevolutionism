@@ -9,7 +9,7 @@ The experiment began spontaneously when the retiree froze in bewilderment in fro
 This could have been a disaster, but...
 
 ### Phase 1: Connecting the Supersystem (Diagnostics and Selection)
-Via a smartphone, an external informational supersystem (a Large Language Model) connected to the situation. In a brief dialogue - where the human acted as the "eyes and hands" and the AI as the "analytical core" - a precise diagnosis was made based on subtle symptoms and system response timings: the physical death of the old Toshiba mechanical hard drive. (The system had two drives: a small SSD for the OS and the mechanical drive for data.)
+Via a smartphone, an external informational supersystem (a Large Language Model) connected to the situation. In a brief dialogue - where the human acted as the "eyes and hands" and the AI as the "analytical core" - a precise diagnosis was made based on subtle symptoms and system response timings: the physical death of the old Toshiba mechanical hard drive. The system had two drives: a small SSD for the OS and the mechanical drive for data. Removing the mechanical drive confirmed the diagnosis: the laptop booted up normally again.
 
 Instead of running around to service centers, chaotically searching the Web, or buying the first drive available, the synergy of minds acted as an ideal filter against marketing noise.
 
@@ -44,7 +44,7 @@ This was followed by a lightning-fast adjustment of the ASUS BIOS parameters (*H
  ### The Observer's Philosophical Conclusion
 This case is not just about a successful laptop repair. It is a pure example of coevolution.
 
-The laptop's old interface was never built for the technologies of the future. A human alone would have drowned in terabytes of forums and the frequent ageist prejudices of certain service center technicians. An AI without a human would remain nothing but a set of lifeless instructions on a server.
+A human alone would have drowned in terabytes of forums and the frequent ageist prejudices of certain service center technicians. The laptop's old interface was never built for the technologies of the future. An AI without a human would remain nothing but a set of lifeless instructions on a server.
 
 Only by unifying into a single system - where the AI navigated the silicon worlds, grandma acted as the process administrator, and both retirees served as physical executors (each in their own strong way) - were they able to restructure the local architecture of matter and prompt it to fulfill its purpose.
 
