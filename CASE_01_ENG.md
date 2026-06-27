@@ -9,7 +9,7 @@ The experiment began spontaneously when the retiree froze in bewilderment in fro
 This could have been a disaster, but...
 
 ### Phase 1: Connecting the Supersystem (Diagnostics and Selection)
-Via a smartphone, an external informational supersystem (a Large Language Model) connected to the situation. In a brief dialogue - where the human acted as the "eyes and hands" and the AI as the "analytical core" - a precise diagnosis was made based on subtle symptoms and system response timings: the physical death of the old Toshiba mechanical hard drive. (This system had two drives: a small SSD for the OS and a mechanical drive for data.)
+Via a smartphone, an external informational supersystem (a Large Language Model) connected to the situation. In a brief dialogue - where the human acted as the "eyes and hands" and the AI as the "analytical core" - a precise diagnosis was made based on subtle symptoms and system response timings: the physical death of the old Toshiba mechanical hard drive. (The system had two drives: a small SSD for the OS and the mechanical drive for data.)
 
 Instead of running around to service centers, chaotically searching the Web, or buying the first drive available, the synergy of minds acted as an ideal filter against marketing noise.
 
