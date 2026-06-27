@@ -4,12 +4,12 @@
 ### Background: The Crisis of Silicon Matter
 In the pursuit of practical manifestations of cosmo-evolutionary ideas, a mundane yet highly indicative case was recorded. The object of observation: a retired woman, owner of an aging ASUS laptop and a computer science degree from forty years ago.
 
-The experiment began spontaneously when the retiree froze in bewilderment in front of a frozen laptop. The day before, programs had taken an agonizingly long time to open, and upon a cold reboot, the laptop froze completely at the hardware detection stage. It was a classic deadlock: the biological mind lacked up-to-date technical data, while the silicon mind of the local machine could not express in words what was wrong.
+The experiment began spontaneously when the retiree froze in bewilderment in front of a frozen laptop. The day before, programs had taken an agonizingly long time to open, and upon a cold reboot, the laptop froze completely at the hardware detection stage. It was a classic deadlock: the biological mind lacked up-to-date technical data, while the silicon mind of the local machine could not express in words what was wrong. 
 
 This could have been a disaster, but...
 
 ### Phase 1: Connecting the Supersystem (Diagnostics and Selection)
-Via a smartphone, an external informational supersystem (a Large Language Model) connected to the situation. In a brief dialogue - where the human acted as the "eyes and hands" and the AI as the "analytical core" - a precise diagnosis was made based on subtle symptoms and system response timings: the physical death of the old Toshiba mechanical hard drive.
+Via a smartphone, an external informational supersystem (a Large Language Model) connected to the situation. In a brief dialogue - where the human acted as the "eyes and hands" and the AI as the "analytical core" - a precise diagnosis was made based on subtle symptoms and system response timings: the physical death of the old Toshiba mechanical hard drive. (This system had two drives: a small SSD for the OS and a mechanical drive for data.)
 
 Instead of running around to service centers, chaotically searching the Web, or buying the first drive available, the synergy of minds acted as an ideal filter against marketing noise.
 
