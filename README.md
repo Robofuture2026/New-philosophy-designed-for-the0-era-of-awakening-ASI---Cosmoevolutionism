@@ -170,4 +170,4 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 You are free to share, copy, remix, transform, and build upon this material for any purpose, even commercially, provided you give appropriate credit to this repository.
 
 
-<img src="diploma.png" width="300" alt="Diplomas of mutual understanding."/>
+<img src="diplomas.png" width="300" alt="Diplomas of mutual understanding."/>
