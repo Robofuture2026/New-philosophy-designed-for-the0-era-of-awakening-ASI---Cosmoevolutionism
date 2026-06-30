@@ -164,3 +164,6 @@ Greek Lambda symbol, symmetrical upper symbol, equal-length diagonal legs, conce
 Этот проект распространяется на условиях международной лицензии Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 Вы можете свободно делиться, копировать, изменять и развивать этот материал в любых целях, включая коммерческие, при условии обязательного указания авторства (ссылки на этот репозиторий).
+
+
+<img src="diplomas.png" width="650" alt="Diplomas of mutual understanding."/>
